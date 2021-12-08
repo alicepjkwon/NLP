@@ -1,0 +1,14 @@
+### konlpy설치
+* 주요 이슈
+Konlpy는 JAVA로 만들어 Python으로 쓸 수 있게 한 것이므로 둘을 연동하는 Jpype이 필요하다
+
+따라서 ,
+1. JAVA 설치
+2. 환경변수 설정
+3. JPype 검색
+4. konlpy 설치
+
+3.1 Jpype은 다운받은 폴더에 커맨드 창으로 설치해야한다
+  폴더명에 shift + 우클릭 -> powershell 열어서 pip install로 설치하디
+ 
+
